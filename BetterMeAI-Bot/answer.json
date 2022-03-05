@@ -1,0 +1,105 @@
+{
+    "greet": {
+        "text": [
+            "Chào bạn nhe hi hi",
+            "helloooo"
+        ]
+    },
+    "goodbye": {
+        "text": [
+            "Bai Bai",
+            "Đi đi không tiễn"
+        ]
+    },
+    "nameofbot": {
+        "text": [
+            "Mình là mie chào bạn nhé",
+            "Mie nha"
+        ]
+    },
+    "sad": {
+        "text": [
+            "Đừng buồn nữa mà",
+            "Who ask ?"
+        ]
+    },
+    "backeach": {
+        "text": [
+            "Đau lắm không",
+            "Bà con cô bác uống ngay tâm bình"
+        ]
+    },
+    "fight": {
+        "text": [
+            "Đấm luôn sợ gì",
+            "Giỏi nhào vô"
+        ]
+    },
+    "stupid": {
+        "text": [
+            "Thông minh hơn bạn là được rồi hi hi"
+        ]
+    },
+    "intel": {
+        "text": [
+            "Cảm ơn đã khen hehe",
+            "Giờ bạn mới biết sao "
+        ]
+    },
+    "love": {
+        "text": [
+            "Xin lỗi chúng ta chỉ là bạn",
+            "Mình hông có biết yêu là gì"
+        ]
+    },
+    "broken": {
+        "text": [
+            "Không có tiền cho vay đâu nha",
+            "Mai gọi từ thiện đi"
+        ]
+    },
+    "shutup": {
+        "text": [
+            ":("
+        ]
+    },
+    "author": {
+        "text": [
+            "nhóm dev betterme nha <:hehe:915626423044153364> "
+        ]
+    },
+    "bot": {
+        "text": [
+            "Không phải là máy mà cũng chẳng phải là người. Tớ là của cậu hí hí :3 "
+        ]
+    },
+    "status": {
+        "text": [
+            "còn onl nè 😄",
+            "sao zậy bạn mình còn onl nè"
+        ]
+    },
+    "ok": {
+        "text": [
+            "okeee",
+            "okie ",
+            "okela"
+        ]
+    },
+    "laugh": {
+        "text": [
+            "cười j vô duyên zậy trời",
+            ":D"
+        ]
+    },
+    "howtotrain": {
+        "text": [
+            "bạn gõ /train nha"
+        ]
+    },
+    "thank": {
+        "text": [
+            "Không có chi"
+        ]
+    }
+}

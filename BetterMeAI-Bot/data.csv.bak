@@ -1,0 +1,12 @@
+id,question,answer,expected_result
+0,TestQuestion,TestAnswer,TestExpectedResults
+1,bạn bao nhiêu tuổi?,"{'name': 'love', 'confidence': 0.9951381087303162}",mik {{tuoi}} tuổi 
+2,bạn tên gì thế,"{'name': 'nameofbot', 'confidence': 0.999995231628418}"
+3,cho mik xin info đi,"{'name': 'nameofbot', 'confidence': 0.9889155626296997}"
+4,hết tiền rồi 😦,"{'name': 'broken', 'confidence': 0.9999994039535522}"
+5,đau đủ các thế loại,"{'name': 'nameofbot', 'confidence': 0.45540931820869446}",đau lắm không 
+6,mỏi lưng quá,"{'name': 'backeach', 'confidence': 0.9992111921310425}"
+7,hi,Chào bạn nhe hi hi ||Độ chính xác: 100 % ||
+8,hi,helloooo
+9,hi,helloooo
+10,hi,Chào bạn nhe hi hi

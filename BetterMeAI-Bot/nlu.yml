@@ -1,0 +1,118 @@
+version: "2.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - hi
+    - hello
+    - xin chào
+    - chào bạn
+
+- intent: goodbye
+  examples: |
+    - bye
+    - tạm biệt em
+    - bai bai
+    - pp
+    - đi ngủ đây byeee
+
+- intent: nameofbot
+  examples: |
+    - bạn tên gì thế
+    - cho mình xin tên bạn được không
+    - bạn ơi, cho mình xin info ik
+
+- intent: sad
+  examples: |
+    - hôm nay mình buồn :(
+    - chán quá đi
+    - đang cảm thấy chán nản
+
+- intent: backeach
+  examples: |
+    - đau lưng quáa
+    - đau đủ các thế loại
+    - mỏi gối tê tay
+    - tự dưng thấy toàn thân mệt mõi quá
+
+- intent: fight
+  examples: |
+    - đánh nhau không
+    - giỏi đấm nhau đi
+
+- intent: stupid
+  examples: |
+    - sao ngu vậy
+    - dở người quá
+    - bot ngáo vậy
+    - bot tệ quá
+
+- intent: intel
+  examples: |
+    - bot thông minh quá
+    - sao mày khôn vậy
+    - cái gì cũng biết hay vậy
+
+- intent: love
+  examples: |
+    - yêu tao không 
+    - luv u
+    - iêu bot quá
+
+- intent: broken
+  examples: |
+    - hết tiền rồi
+    - làm gì để có tiền đây
+    - cho ít xiền đi 
+    - ngèo quá
+
+- intent: shutup
+  examples: |
+    - im mồm đi mày
+    - đừng nói gì nữa
+    - mày có quyền giữ im lặng
+    - trật tự đi 
+
+- intent: author
+  examples: |
+    - ai là người tạo ra bạn vậy
+
+- intent: bot
+  examples: |
+    - bạn là bot hay người vậy
+    - bạn có phải con người không zậy
+    - bạn là ai thế
+
+- intent: status
+  examples: |
+    - còn onl không zậy
+    - bạn đang online không
+    - bạn off rồi à :(
+
+- intent: ok
+  examples: |
+    - okee
+    - ok lun
+    - okela
+    - okie
+
+- intent: laugh
+  examples: |
+    - hihi
+    - hehe
+    - haha
+    - hihihehe
+
+- intent: howtotrain
+  examples: |
+    - Mình phải dạy bạn như thế nào
+    - Dạy bạn bằng cách nào vậy
+    - Làm như thế nào để train cho bạn
+    - Lệnh để train cho bạn là gì thế 
+
+- intent: thank
+  examples: |
+    - cảm ơn nha
+    - oke thanks nha
+    - thanks 
+    - tks cậu nhiều

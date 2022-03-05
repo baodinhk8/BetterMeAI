@@ -1,0 +1,52 @@
+version: "2.0"
+
+intents:
+  - greet
+  - goodbye
+  - nameofbot
+  - sad
+  - backeach
+  - fight
+  - stupid
+  - intel
+  - love
+  - broken
+  - shutup
+
+responses:
+  utter_greet:
+  - text: "Chào bạn nhe hi hi "
+
+  utter_cheer_up:
+  - text: "Bai Bai"
+
+  utter_myname:
+  - text: "Tớ cũng ko bik tên mình luôn"
+
+  utter_sad:
+  - text: "Đừng buồn nữa mà :("
+
+  utter_backeach:
+  - text: "Đau lắm không"
+
+  utter_fight:
+  - text: "Đánh luôn sợ gì"
+  
+  utter_stupid:
+  - text: "Thông minh hơn bạn là được rồi :hahahehe:"
+
+  utter_intel:
+  - text: "Cẻm ơn"
+
+  utter_love:
+  - text: "Xin lỗi chúng ta chỉ là bạn"
+
+  utter_broken:
+  - text: "Không có tiền cho vay đâu nhe"
+
+  utter_shutup:
+  - text: ":("
+
+# session_config:
+#   session_expiration_time: 60
+#   carry_over_slots_to_new_session: true

@@ -1,0 +1,4 @@
+discord
+pyvi
+requests
+discord-py-slash-command
