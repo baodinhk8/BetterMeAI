@@ -84,5 +84,5 @@ async def _train(ctx, *, question_id: int, excepted_answer: str):
     exceptedAnswer(n_id, data)
     await ctx.send("Add to training file successfully")
 
-my_secret = "ODgzNjk2MDA5ODI0MzE3NDcx.YTNsCw.9n5SNZv9eJRP1eS0wVFWv2vIdOg"
+my_secret = "Hi hi không cho key đâu :)"
 bot.run(my_secret)
